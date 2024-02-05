@@ -1,5 +1,5 @@
 # Spring Security Auth Template
-This project is a ready-to-use template for building applications with user authentication using Spring Security and PostgreSQL.
+This project is a ready-to-use template for building applications with user authentication through Spring Security and PostgreSQL.
 
 ### Prerequisites:
 
