@@ -3,11 +3,10 @@ This project is a ready-to-use template for building applications with user auth
 
 ### Prerequisites:
 
-
-
-- [Java](https://www.java.com/), [JDK](https://www.oracle.com/java/technologies/downloads/) and [Git](https://git-scm.com/) installed.
-
-- Ensure that [PostgreSQL](https://www.postgresql.org/download/) is installed on your machine, and a database has been created.
+- [Java](https://www.java.com/), [JDK](https://www.oracle.com/java/technologies/downloads/), [Maven](https://maven.apache.org/download.cgi) and [Git](https://git-scm.com/) installed.
+- Ensure that the `JAVA_HOME` environment variable points to your installed JDK
+- Add `path\to\your\maven\bin` to your PATH variable.
+- [PostgreSQL](https://www.postgresql.org/download/) installed on your machine, and a database has been created.
 
 ### Steps:
 
