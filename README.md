@@ -9,7 +9,7 @@ This project is a ready-to-use template for building applications with user auth
 
 1. Clone the application repository:
     ```bash
-    git clone git@github.com:cass1ope1a/auth-template-app.git
+    git clone https://github.com/cass1ope1a/auth-template-app.git
     ```
 2. Navigate to the project directory:
     ```bash
