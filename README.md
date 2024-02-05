@@ -3,11 +3,11 @@ This project is a ready-to-use template for building applications with user auth
 
 ### Prerequisites:
 
-1. Java installed on your machine.
-2. JDK installed to compile and build the project.
-3. Git installed to clone the repository.
 
-4. Ensure that PostgreSQL is installed on your machine, and a database has been created.
+
+- [Java](https://www.java.com/), [JDK](https://www.oracle.com/java/technologies/downloads/) and [Git](https://git-scm.com/) installed.
+
+- Ensure that [PostgreSQL](https://www.postgresql.org/download/) is installed on your machine, and a database has been created.
 
 ### Steps:
 
