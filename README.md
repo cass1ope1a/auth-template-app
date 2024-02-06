@@ -35,7 +35,7 @@ This project is a ready-to-use template for building applications with user auth
    INSERT INTO public.t_user_roles(user_id, roles_id)
    VALUES (1, 2);
    ```
-7. The application is now ready to use.
+7. The application is now ready to use. Open it in your browser at [http://localhost:8080](http://localhost:8080)
 
 <hr>
 
